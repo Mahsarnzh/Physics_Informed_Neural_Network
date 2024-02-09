@@ -14,7 +14,6 @@ Physics-Informed Neural Networks (PINNs) combine the power of neural networks wi
 Before starting the tutorial, ensure you have the following installed:
 
 - Python (version 3.x)
-- JAX
 - Optax
 - NumPy
 - Matplotlib
