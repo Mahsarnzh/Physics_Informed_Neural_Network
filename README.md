@@ -35,12 +35,14 @@ Clone this repository to your local machine:
 
 ```cd Physics_Informed_Neural_Network```
 
-```python -m venv venv```
+```python3 -m venv venv```
 
 ```. ./venv/bin/activate```
 
 ```pip install optax```
 
+```pip install numpy```
+
 ```pip install matplotlib```
 
-```python PINNS_Temp.py```
+```python3 PINNS_Temp.py```
