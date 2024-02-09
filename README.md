@@ -31,10 +31,11 @@ upload data.npz and PINNs_Temp.ipynb files on google cloud and run all
 ### Method 2:
 Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/Mahsarnzh/Physics_Informed_Neural_Network.git
-cd Physics_Informed_Neural_Network
-python -m venv venv
-. ./venv/bin/activate
-pip install optax 
-python PINNS_Temp.py
+```git clone https://github.com/Mahsarnzh/Physics_Informed_Neural_Network.git```
+
+```cd Physics_Informed_Neural_Network```
+```python -m venv venv```
+```. ./venv/bin/activate```
+```pip install optax```
+```pip install matplotlib```
+```python PINNS_Temp.py```
