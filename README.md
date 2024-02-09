@@ -19,10 +19,19 @@ Before starting the tutorial, ensure you have the following installed:
 - Matplotlib
 
 ## Installation
+### Method 1:
+Clone this repository to your local machine:
+upload data.npz and PINNs_Temp.ipynb files on google cloud and run all
 
+## Or
+
+### Method 2:
 Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Mahsarnzh/Physics_Informed_Neural_Network.git
 cd Physics_Informed_Neural_Network
-python 
+python -m venv venv
+. ./venv/bin/activate
+pip install optax 
+python PINNS_Temp.py
