@@ -21,6 +21,9 @@ Before starting the tutorial, ensure you have the following installed:
 ## Installation
 ### Method 1:
 Clone this repository to your local machine:
+
+``` git clone https://github.com/Mahsarnzh/Physics_Informed_Neural_Network.git ```
+
 upload data.npz and PINNs_Temp.ipynb files on google cloud and run all
 
 ## Or
