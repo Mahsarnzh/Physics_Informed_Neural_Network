@@ -23,5 +23,6 @@ Before starting the tutorial, ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/pinn-tutorial.git
-cd pinn-tutorial
+git clone https://github.com/Mahsarnzh/Physics_Informed_Neural_Network.git
+cd Physics_Informed_Neural_Network
+python 
