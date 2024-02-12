@@ -5,6 +5,7 @@ import jax.numpy as jnp
 from jax import jit, vmap, grad
 import matplotlib.pyplot as plt
 
+
 key = jax.random.PRNGKey(2)
 
 data = jnp.load('data.npz')
@@ -336,12 +337,6 @@ plt.ylabel('X2')
 plt.title('_PINNS_Method_1_Part_7')
 
 
-import jax
-import optax
-import numpy as np
-import jax.numpy as jnp
-from jax import jit, vmap, grad
-import matplotlib.pyplot as plt
 
 key = jax.random.PRNGKey(2)
 data = jnp.load('data.npz')
